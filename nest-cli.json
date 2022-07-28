@@ -9,15 +9,6 @@
     "tsConfigPath": "apps/ordering-app/tsconfig.app.json"
   },
   "projects": {
-    "ordering-app": {
-      "type": "application",
-      "root": "apps/ordering-app",
-      "entryFile": "main",
-      "sourceRoot": "apps/ordering-app/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/ordering-app/tsconfig.app.json"
-      }
-    },
     "orders": {
       "type": "application",
       "root": "apps/orders",
